@@ -5,7 +5,7 @@ draft: false
 author: "Dr. James Chen"
 categories: ["Male Fertility", "Treatment Options"]
 tags: ["male factor infertility", "sperm health", "lifestyle", "treatment"]
-featured_image: "/images/male-fertility.jpg"
+image: "/images/male-fertility.jpg"
 description: "Comprehensive guide to male fertility factors, sperm health optimization, and treatment options for male factor infertility."
 ---
 

@@ -5,7 +5,7 @@ draft: false
 author: "Dr. Sarah Williams"
 categories: ["Fertility Preservation", "Women's Health"]
 tags: ["egg freezing", "fertility preservation", "career planning", "oocyte cryopreservation"]
-featured_image: "/images/egg-freezing.jpg"
+image: "/images/egg-freezing.jpg"
 description: "Complete guide to egg freezing: process, costs, success rates, and when to consider fertility preservation."
 ---
 

@@ -5,7 +5,7 @@ draft: false
 author: "Dr. Maria Rodriguez"
 categories: ["Treatment Options", "IVF"]
 tags: ["fertility treatment", "reproductive health", "patient education"]
-featured_image: "/images/ivf-process.jpg"
+image: "/images/ivf-process.jpg"
 description: "A comprehensive guide to understanding the IVF process, from initial consultation to embryo transfer and beyond."
 ---
 

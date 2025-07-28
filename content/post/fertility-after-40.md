@@ -5,7 +5,7 @@ draft: false
 author: "Dr. Maria Rodriguez"
 categories: ["Advanced Maternal Age", "Treatment Options"]
 tags: ["fertility after 40", "advanced maternal age", "IVF", "donor eggs"]
-featured_image: "/images/fertility-after-40.jpg"
+image: "/images/fertility-after-40.jpg"
 description: "Comprehensive guide to fertility options for women over 40, including natural conception, IVF success rates, and donor egg alternatives."
 ---
 
