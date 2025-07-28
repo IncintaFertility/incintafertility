@@ -57,6 +57,10 @@ params:
         readingTime: true
         license:
             enabled: false
+        
+    list:
+        displayStyle: card
+        showThumbnail: true
 
     comments:
         enabled: false
