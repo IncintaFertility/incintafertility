@@ -30,7 +30,7 @@ permalinks:
 
 params:
     mainSections:
-        - blog
+        - post
     featuredImageField: image
     rssFullContent: true
     favicon: /images/favicon.png

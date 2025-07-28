@@ -1,8 +1,8 @@
-+++
-title = "Incinta Fertility"
-date = 2024-07-28T00:00:00+08:00
-image = "/images/blog/fertility-hero.jpg"
-+++
+---
+title: "Incinta Fertility"
+date: 2024-07-28T00:00:00+08:00
+image: "/images/blog/fertility-hero.jpg"
+---
 
 # Welcome to Incinta Fertility
 
