@@ -1,44 +1,49 @@
 ---
-title: "Incinta Fertility Center Blog"
-featured_image: '/images/hero-bg.jpg'
-description: "Expert insights and guidance on fertility, reproductive health, and your journey to parenthood from leading fertility specialists."
-layout: "hero"
+title: "Incinta Fertility"
+description: "Leading fertility clinic providing comprehensive reproductive health services with personalized care and cutting-edge fertility treatments"
+menu:
+    main:
+        name: "Home"
+        weight: 1
+        params:
+            icon: home
 ---
 
-# Expert Fertility Insights & Guidance
+# Welcome to Incinta Fertility
 
-**Your trusted source for fertility knowledge and support**
+**Your trusted partner in reproductive health and fertility care**
 
-Welcome to the Incinta Fertility Center Blog, where our team of fertility specialists shares expert insights, latest research, and supportive guidance on your journey to parenthood. Whether you're just starting to explore fertility options or are already on your treatment journey, our blog provides the information and support you need.
+At Incinta Fertility, we understand that your journey to parenthood is unique and deeply personal. Our team of board-certified reproductive endocrinologists and fertility specialists combines cutting-edge medical technology with compassionate, personalized care to help you achieve your dreams of building a family.
 
-[Explore Our Latest Posts](/blog/)
+## Why Choose Incinta Fertility?
 
-## What You'll Find Here
+### 🔬 **Advanced Medical Expertise**
+Our fellowship-trained specialists have years of experience in reproductive medicine, utilizing the latest fertility treatments and technologies to maximize your chances of success.
 
-### Treatment Insights
-In-depth information about IVF, IUI, egg freezing, and other fertility treatments from our experienced specialists.
+### 💝 **Personalized Care**
+Every treatment plan is tailored to your unique medical history, lifestyle, and family-building goals. We believe in treating the whole person, not just the diagnosis.
 
-### Lifestyle & Wellness
-Evidence-based guidance on nutrition, exercise, stress management, and lifestyle factors that impact fertility.
+### 🏥 **State-of-the-Art Facility** 
+Our modern fertility laboratory features the latest equipment for IVF, ICSI, genetic testing, and cryopreservation, ensuring the highest standards of care.
 
-### Patient Stories
-Real experiences and success stories from our patients who have achieved their dreams of parenthood.
+### 🤝 **Comprehensive Support**
+From initial consultation through pregnancy and beyond, our dedicated team provides medical, emotional, and financial guidance every step of the way.
 
-### Latest Research
-Updates on cutting-edge fertility treatments, technologies, and research in reproductive medicine.
+## Our Services
 
-### Expert Q&A
-Answers to common fertility questions from our board-certified reproductive endocrinologists.
+- **In Vitro Fertilization (IVF)** - Advanced reproductive technology with personalized protocols
+- **Intrauterine Insemination (IUI)** - Less invasive fertility treatment option
+- **Egg Freezing** - Preserve your fertility for the future
+- **Genetic Testing** - Comprehensive screening for genetic conditions
+- **Male Fertility** - Specialized care for male factor infertility
+- **Fertility Preservation** - Options for cancer patients and elective freezing
 
-## Featured Categories
+## Getting Started
 
-- **[IVF & Treatment Options](/categories/treatment-options/)** - Comprehensive guides to fertility treatments
-- **[Lifestyle & Nutrition](/categories/lifestyle/)** - How your daily choices impact fertility
-- **[Women's Health](/categories/womens-health/)** - Reproductive health insights for women
-- **[Male Fertility](/categories/male-fertility/)** - Understanding and optimizing male reproductive health
+Ready to take the first step? We're here to guide you through every aspect of your fertility journey with expertise, compassion, and hope.
 
-## Connect With Us
+**📞 Call us today**: [Schedule your consultation](/contact/) and begin your path to parenthood.
 
-Our blog is part of our commitment to education and support throughout your fertility journey. For personalized care and treatment, visit our main website or schedule a consultation.
+---
 
-[Visit Incinta Fertility Center](https://incintafertility.com/) | [Schedule a Consultation](/contact/) | [Read Our Latest Posts](/blog/)
+*Your dreams of building a family are our passion and purpose.*

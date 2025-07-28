@@ -1,0 +1,69 @@
+/* Incinta Fertility Custom Styles */
+
+/* Medical-specific color overrides */
+:root {
+  --primary-color: #EDBB5F;
+  --secondary-color: #534741;
+  --accent-color: #DF9475;
+  --text-color: #534741;
+  --light-bg: #FEF9ED;
+}
+
+/* Professional medical styling */
+.btn-primary {
+  background: linear-gradient(135deg, var(--primary-color), #FA7F28);
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #FA7F28, #d6621a);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(237, 187, 95, 0.3);
+}
+
+/* Hero section medical styling */
+.banner .banner-content {
+  background: rgba(254, 249, 237, 0.95);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  padding: 2rem;
+}
+
+/* Feature cards medical theme */
+.feature-card {
+  border: 2px solid rgba(237, 187, 95, 0.1);
+  border-radius: 15px;
+  transition: all 0.3s ease;
+}
+
+.feature-card:hover {
+  border-color: var(--primary-color);
+  box-shadow: 0 10px 30px rgba(237, 187, 95, 0.2);
+  transform: translateY(-5px);
+}
+
+/* Medical professional color scheme */
+.text-primary {
+  color: var(--primary-color) !important;
+}
+
+.bg-primary {
+  background-color: var(--primary-color) !important;
+}
+
+.text-secondary {
+  color: var(--secondary-color) !important;
+}
+
+/* Contact form medical styling */
+.form-control {
+  border: 2px solid rgba(237, 187, 95, 0.2);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.form-control:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 0.2rem rgba(237, 187, 95, 0.25);
+}
