@@ -1484,7 +1484,333 @@
 &lt;/h2>&lt;p>If you&amp;rsquo;re over 40 and considering fertility treatment, don&amp;rsquo;t wait. Early consultation helps optimize your chances of success.&lt;/p>
 &lt;p>&lt;a class="link" href="https://incintafertility.com/contact/" >Schedule a consultation&lt;/a> with our fertility specialists to discuss your personalized treatment plan.&lt;/p>
 &lt;hr>
-&lt;p>&lt;em>Individual results vary based on specific circumstances. All medical decisions should be made in consultation with qualified healthcare providers.&lt;/em>&lt;/p></description></item><item><title>Archives</title><link>https://incintafertility.com/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://incintafertility.com/archives/</guid><description/></item><item><title>Dr. Maria Rodriguez, MD</title><link>https://incintafertility.com/team/dr-maria-rodriguez/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://incintafertility.com/team/dr-maria-rodriguez/</guid><description>&lt;h1 id="dr-maria-rodriguez-md">Dr. Maria Rodriguez, MD
+&lt;p>&lt;em>Individual results vary based on specific circumstances. All medical decisions should be made in consultation with qualified healthcare providers.&lt;/em>&lt;/p></description></item><item><title>Archives</title><link>https://incintafertility.com/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://incintafertility.com/archives/</guid><description/></item><item><title>Contact Us</title><link>https://incintafertility.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://incintafertility.com/contact/</guid><description>&lt;img src="https://incintafertility.com/images/medical-consultation-warm.jpg" alt="Featured image of post Contact Us" />&lt;h1 id="ready-to-start-your-fertility-journey">Ready to Start Your Fertility Journey?
+&lt;/h1>&lt;p>Take the first step toward building your family. Our compassionate team of fertility specialists is here to guide you through every step of your reproductive health journey with personalized care and cutting-edge treatments.&lt;/p>
+&lt;div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 2rem; border-radius: 10px; margin: 2rem 0; border-left: 4px solid #edbb5f;">
+&lt;h2 style="color: #fa7f28; margin-top: 0;">📞 Schedule Your Consultation Today&lt;/h2>
+&lt;div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
+&lt;div>
+&lt;strong>📱 Phone&lt;/strong>&lt;br>
+&lt;a href="tel:+14242124087" style="color: #fa7f28; text-decoration: none; font-size: 1.1em;">+1 (424) 212-4087&lt;/a>
+&lt;/div>
+&lt;div>
+&lt;strong>💬 WhatsApp&lt;/strong>&lt;br>
+&lt;a href="https://wa.me/14244719353" style="color: #fa7f28; text-decoration: none; font-size: 1.1em;">+1 (424) 471-9353&lt;/a>
+&lt;/div>
+&lt;div>
+&lt;strong>✉️ Email&lt;/strong>&lt;br>
+&lt;a href="mailto:contact@incintafertility.com" style="color: #fa7f28; text-decoration: none; font-size: 1.1em;">contact@incintafertility.com&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p style="margin-bottom: 0; color: #6c757d; font-style: italic;">Available Monday through Friday, 8:00 AM - 6:00 PM PST&lt;/p>
+&lt;/div>
+&lt;h2 id="request-a-consultation">Request a Consultation
+&lt;/h2>&lt;p>&lt;strong>Fill out our quick form below and we&amp;rsquo;ll contact you within 24 hours to schedule your personalized consultation.&lt;/strong>&lt;/p>
+&lt;form action="https://formspree.io/f/xwpegrkv" method="POST" style="background: #ffffff; padding: 2rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin: 2rem 0;">
+&lt;div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin-bottom: 1rem;">
+&lt;div>
+&lt;label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: bold; color: #495057;">Full Name *&lt;/label>
+&lt;input type="text" id="name" name="name" required style="width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 5px; font-size: 1rem; transition: border-color 0.3s;">
+&lt;/div>
+&lt;div>
+&lt;label for="phone" style="display: block; margin-bottom: 0.5rem; font-weight: bold; color: #495057;">Phone Number *&lt;/label>
+&lt;input type="tel" id="phone" name="phone" required style="width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 5px; font-size: 1rem; transition: border-color 0.3s;">
+&lt;/div>
+&lt;/div>
+&lt;div style="margin-bottom: 1rem;">
+&lt;label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: bold; color: #495057;">Email Address *&lt;/label>
+&lt;input type="email" id="email" name="email" required style="width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 5px; font-size: 1rem; transition: border-color 0.3s;">
+&lt;/div>
+&lt;div style="margin-bottom: 1rem;">
+&lt;label for="age" style="display: block; margin-bottom: 0.5rem; font-weight: bold; color: #495057;">Age&lt;/label>
+&lt;select id="age" name="age" style="width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 5px; font-size: 1rem; background: white;">
+&lt;option value="">Select Age Range&lt;/option>
+&lt;option value="under-25">Under 25&lt;/option>
+&lt;option value="25-30">25-30&lt;/option>
+&lt;option value="31-35">31-35&lt;/option>
+&lt;option value="36-40">36-40&lt;/option>
+&lt;option value="over-40">Over 40&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div style="margin-bottom: 1rem;">
+&lt;label for="location" style="display: block; margin-bottom: 0.5rem; font-weight: bold; color: #495057;">Preferred Location&lt;/label>
+&lt;select id="location" name="location" style="width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 5px; font-size: 1rem; background: white;">
+&lt;option value="">Select Location&lt;/option>
+&lt;option value="torrance">Torrance (Main Office)&lt;/option>
+&lt;option value="alhambra">Alhambra&lt;/option>
+&lt;option value="beverly-hills">Beverly Hills&lt;/option>
+&lt;option value="corona">Corona&lt;/option>
+&lt;option value="irvine">Irvine&lt;/option>
+&lt;option value="telehealth">Telehealth Consultation&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div style="margin-bottom: 1rem;">
+&lt;label for="services" style="display: block; margin-bottom: 0.5rem; font-weight: bold; color: #495057;">Services Interested In&lt;/label>
+&lt;select id="services" name="services" style="width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 5px; font-size: 1rem; background: white;">
+&lt;option value="">Select Service&lt;/option>
+&lt;option value="consultation">Initial Consultation&lt;/option>
+&lt;option value="ivf">IVF Treatment&lt;/option>
+&lt;option value="iui">IUI Treatment&lt;/option>
+&lt;option value="egg-freezing">Egg Freezing&lt;/option>
+&lt;option value="male-fertility">Male Fertility&lt;/option>
+&lt;option value="genetic-testing">Genetic Testing&lt;/option>
+&lt;option value="second-opinion">Second Opinion&lt;/option>
+&lt;option value="other">Other&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div style="margin-bottom: 1.5rem;">
+&lt;label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: bold; color: #495057;">Tell us about your fertility journey&lt;/label>
+&lt;textarea id="message" name="message" rows="4" placeholder="Please share any questions or details about your situation that would help us prepare for your consultation..." style="width: 100%; padding: 0.75rem; border: 2px solid #e9ecef; border-radius: 5px; font-size: 1rem; resize: vertical; font-family: inherit; transition: border-color 0.3s;">&lt;/textarea>
+&lt;/div>
+&lt;div style="margin-bottom: 1.5rem;">
+&lt;label style="display: flex; align-items: flex-start; cursor: pointer;">
+&lt;input type="checkbox" name="consent" required style="margin-right: 0.5rem; margin-top: 0.25rem;">
+&lt;span style="font-size: 0.9rem; color: #6c757d; line-height: 1.4;">I consent to being contacted by Incinta Fertility regarding my inquiry and understand that my information will be kept confidential in accordance with HIPAA regulations.&lt;/span>
+&lt;/label>
+&lt;/div>
+&lt;button type="submit" style="background: linear-gradient(135deg, #fa7f28 0%, #edbb5f 100%); color: white; padding: 1rem 2rem; border: none; border-radius: 5px; font-size: 1.1rem; font-weight: bold; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; width: 100%;">
+🚀 Schedule My Consultation
+&lt;/button>
+&lt;/form>
+&lt;script>
+// Add focus effects to form inputs
+document.addEventListener('DOMContentLoaded', function() {
+const inputs = document.querySelectorAll('input, select, textarea');
+inputs.forEach(input => {
+input.addEventListener('focus', function() {
+this.style.borderColor = '#fa7f28';
+this.style.boxShadow = '0 0 0 2px rgba(250, 127, 40, 0.2)';
+});
+input.addEventListener('blur', function() {
+this.style.borderColor = '#e9ecef';
+this.style.boxShadow = 'none';
+});
+});
+const button = document.querySelector('button[type="submit"]');
+button.addEventListener('mouseenter', function() {
+this.style.transform = 'translateY(-2px)';
+this.style.boxShadow = '0 4px 8px rgba(250, 127, 40, 0.3)';
+});
+button.addEventListener('mouseleave', function() {
+this.style.transform = 'translateY(0)';
+this.style.boxShadow = 'none';
+});
+});
+&lt;/script>
+&lt;h2 id="-our-california-locations">🏥 Our California Locations
+&lt;/h2>&lt;div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+&lt;div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #fa7f28;">
+&lt;h3 style="color: #fa7f28; margin-top: 0;">🌟 Torrance Office&lt;/h3>
+&lt;p>&lt;strong>Main Location &amp; Laboratory&lt;/strong>&lt;/p>
+&lt;ul style="margin: 0; padding-left: 1.2rem;">
+&lt;li>Full IVF laboratory and surgical suite&lt;/li>
+&lt;li>Complete fertility testing and diagnostics&lt;/li>
+&lt;li>Genetic counseling services&lt;/li>
+&lt;li>Research and clinical trials&lt;/li>
+&lt;/ul>
+&lt;p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;">&lt;em>Our flagship location with comprehensive services&lt;/em>&lt;/p>
+&lt;/div>
+&lt;div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #edbb5f;">
+&lt;h3 style="color: #fa7f28; margin-top: 0;">🏢 Alhambra Office&lt;/h3>
+&lt;p>&lt;strong>East LA Convenience&lt;/strong>&lt;/p>
+&lt;ul style="margin: 0; padding-left: 1.2rem;">
+&lt;li>Full-service fertility clinic&lt;/li>
+&lt;li>Ultrasound and monitoring&lt;/li>
+&lt;li>IUI procedures&lt;/li>
+&lt;li>Consultations and follow-ups&lt;/li>
+&lt;/ul>
+&lt;p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;">&lt;em>Serving the San Gabriel Valley&lt;/em>&lt;/p>
+&lt;/div>
+&lt;div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #fa7f28;">
+&lt;h3 style="color: #fa7f28; margin-top: 0;">✨ Beverly Hills Office&lt;/h3>
+&lt;p>&lt;strong>Luxury Fertility Care&lt;/strong>&lt;/p>
+&lt;ul style="margin: 0; padding-left: 1.2rem;">
+&lt;li>Executive health approach&lt;/li>
+&lt;li>Concierge-level service&lt;/li>
+&lt;li>Advanced treatments&lt;/li>
+&lt;li>Discreet, private setting&lt;/li>
+&lt;/ul>
+&lt;p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;">&lt;em>Premium fertility care in the heart of Beverly Hills&lt;/em>&lt;/p>
+&lt;/div>
+&lt;div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #edbb5f;">
+&lt;h3 style="color: #fa7f28; margin-top: 0;">🌴 Corona Office&lt;/h3>
+&lt;p>&lt;strong>Riverside County Hub&lt;/strong>&lt;/p>
+&lt;ul style="margin: 0; padding-left: 1.2rem;">
+&lt;li>Complete reproductive services&lt;/li>
+&lt;li>Male fertility evaluations&lt;/li>
+&lt;li>Fertility preservation&lt;/li>
+&lt;li>Family planning counseling&lt;/li>
+&lt;/ul>
+&lt;p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;">&lt;em>Convenient for Inland Empire families&lt;/em>&lt;/p>
+&lt;/div>
+&lt;div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #fa7f28;">
+&lt;h3 style="color: #fa7f28; margin-top: 0;">🏖️ Irvine Office&lt;/h3>
+&lt;p>&lt;strong>Orange County Location&lt;/strong>&lt;/p>
+&lt;ul style="margin: 0; padding-left: 1.2rem;">
+&lt;li>All fertility treatments&lt;/li>
+&lt;li>Egg freezing specialists&lt;/li>
+&lt;li>Third-party reproduction&lt;/li>
+&lt;li>LGBTQ+ family building&lt;/li>
+&lt;/ul>
+&lt;p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;">&lt;em>Modern facility serving Orange County&lt;/em>&lt;/p>
+&lt;/div>
+&lt;div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 1.5rem; border-radius: 10px; border: 2px dashed #edbb5f;">
+&lt;h3 style="color: #fa7f28; margin-top: 0;">💻 Telehealth Consultations&lt;/h3>
+&lt;p>&lt;strong>Virtual Care Available&lt;/strong>&lt;/p>
+&lt;ul style="margin: 0; padding-left: 1.2rem;">
+&lt;li>Initial consultations&lt;/li>
+&lt;li>Follow-up appointments&lt;/li>
+&lt;li>Second opinions&lt;/li>
+&lt;li>Treatment planning&lt;/li>
+&lt;/ul>
+&lt;p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;">&lt;em>Safe, convenient care from home&lt;/em>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div style="text-align: center; margin: 2rem 0; padding: 1rem; background: #f8f9fa; border-radius: 5px;">
+&lt;p style="margin: 0; color: #6c757d;">📍 &lt;strong>Need specific addresses or directions?&lt;/strong>&lt;/p>
+&lt;p style="margin: 0;">Call us at &lt;a href="tel:+14242124087" style="color: #fa7f28;">+1 (424) 212-4087&lt;/a> and we'll provide detailed directions to your preferred location.&lt;/p>
+&lt;/div>
+&lt;h2 id="-what-to-expect-at-your-initial-consultation">📋 What to Expect at Your Initial Consultation
+&lt;/h2>&lt;div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 2rem; border-radius: 10px; margin: 2rem 0;">
+&lt;div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
+&lt;div>
+&lt;h4 style="color: #fa7f28; margin-top: 0;">🔍 Comprehensive Review&lt;/h4>
+&lt;ul style="margin: 0; padding-left: 1rem; line-height: 1.6;">
+&lt;li>Detailed medical &amp; fertility history&lt;/li>
+&lt;li>Previous test results analysis&lt;/li>
+&lt;li>Lifestyle factors assessment&lt;/li>
+&lt;li>Partner evaluation (if applicable)&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div>
+&lt;h4 style="color: #fa7f28; margin-top: 0;">🏥 Clinical Assessment&lt;/h4>
+&lt;ul style="margin: 0; padding-left: 1rem; line-height: 1.6;">
+&lt;li>Physical examination&lt;/li>
+&lt;li>Ultrasound evaluation&lt;/li>
+&lt;li>Laboratory testing recommendations&lt;/li>
+&lt;li>Diagnostic planning&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div>
+&lt;h4 style="color: #fa7f28; margin-top: 0;">📋 Treatment Planning&lt;/h4>
+&lt;ul style="margin: 0; padding-left: 1rem; line-height: 1.6;">
+&lt;li>Personalized treatment options&lt;/li>
+&lt;li>Success rate discussions&lt;/li>
+&lt;li>Timeline expectations&lt;/li>
+&lt;li>Next steps roadmap&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div>
+&lt;h4 style="color: #fa7f28; margin-top: 0;">💰 Financial Guidance&lt;/h4>
+&lt;ul style="margin: 0; padding-left: 1rem; line-height: 1.6;">
+&lt;li>Insurance verification&lt;/li>
+&lt;li>Treatment cost estimates&lt;/li>
+&lt;li>Payment plan options&lt;/li>
+&lt;li>Financial counseling&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="-how-to-prepare-for-your-visit">📝 How to Prepare for Your Visit
+&lt;/h3>&lt;div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 1rem 0;">
+&lt;strong>📋 Please bring:&lt;/strong>
+&lt;div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
+&lt;div>• Valid photo ID&lt;br>• Insurance cards&lt;br>• Previous medical records&lt;/div>
+&lt;div>• Current medications list&lt;br>• Menstrual cycle tracker&lt;br>• Partner (if applicable)&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="-insurance--financial-information">💳 Insurance &amp;amp; Financial Information
+&lt;/h2>&lt;div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+&lt;div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+&lt;h3 style="color: #fa7f28; margin-top: 0;">🛡️ Insurance Partners&lt;/h3>
+&lt;ul style="margin: 0; padding-left: 1rem;">
+&lt;li>&lt;strong>Blue Cross Blue Shield&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Aetna&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Cigna&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>United Healthcare&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Kaiser Permanente&lt;/strong> (select plans)&lt;/li>
+&lt;li>&lt;strong>And many more...&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;">&lt;em>We verify benefits before treatment&lt;/em>&lt;/p>
+&lt;/div>
+&lt;div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+&lt;h3 style="color: #fa7f28; margin-top: 0;">💰 Payment Options&lt;/h3>
+&lt;ul style="margin: 0; padding-left: 1rem;">
+&lt;li>&lt;strong>Insurance coverage&lt;/strong> (when applicable)&lt;/li>
+&lt;li>&lt;strong>Flexible payment plans&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>HSA/FSA accounts&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>CareCredit financing&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Medication assistance programs&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Package pricing&lt;/strong> for multiple cycles&lt;/li>
+&lt;/ul>
+&lt;p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;">&lt;em>Financial counselors available&lt;/em>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="-our-specialized-services">🔬 Our Specialized Services
+&lt;/h2>&lt;div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
+&lt;div style="background: linear-gradient(135deg, #fa7f28 0%, #edbb5f 100%); color: white; padding: 1rem; border-radius: 8px; text-align: center;">
+&lt;h4 style="margin: 0.5rem 0;">🧪 IVF &amp; Advanced ART&lt;/h4>
+&lt;p style="margin: 0; font-size: 0.9rem;">State-of-the-art laboratory with cutting-edge technology&lt;/p>
+&lt;/div>
+&lt;div style="background: linear-gradient(135deg, #edbb5f 0%, #fa7f28 100%); color: white; padding: 1rem; border-radius: 8px; text-align: center;">
+&lt;h4 style="margin: 0.5rem 0;">🥚 Egg Freezing&lt;/h4>
+&lt;p style="margin: 0; font-size: 0.9rem;">Preserve your fertility for the future&lt;/p>
+&lt;/div>
+&lt;div style="background: linear-gradient(135deg, #fa7f28 0%, #edbb5f 100%); color: white; padding: 1rem; border-radius: 8px; text-align: center;">
+&lt;h4 style="margin: 0.5rem 0;">🧬 Genetic Testing&lt;/h4>
+&lt;p style="margin: 0; font-size: 0.9rem;">PGT-A, PGT-M, and carrier screening&lt;/p>
+&lt;/div>
+&lt;div style="background: linear-gradient(135deg, #edbb5f 0%, #fa7f28 100%); color: white; padding: 1rem; border-radius: 8px; text-align: center;">
+&lt;h4 style="margin: 0.5rem 0;">👨‍⚕️ Male Fertility&lt;/h4>
+&lt;p style="margin: 0; font-size: 0.9rem;">Comprehensive male factor evaluation&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="-frequently-asked-questions">❓ Frequently Asked Questions
+&lt;/h2>&lt;div style="margin: 2rem 0;">
+&lt;details style="background: white; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+&lt;summary style="padding: 1rem; cursor: pointer; font-weight: bold; color: #fa7f28;">How quickly can I be seen?&lt;/summary>
+&lt;div style="padding: 0 1rem 1rem 1rem;">
+&lt;p>Most new patients can be scheduled within 1-2 weeks. For urgent cases or specific concerns, we often accommodate same-day appointments when possible.&lt;/p>
+&lt;/div>
+&lt;/details>
+&lt;details style="background: white; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+&lt;summary style="padding: 1rem; cursor: pointer; font-weight: bold; color: #fa7f28;">Do you offer virtual consultations?&lt;/summary>
+&lt;div style="padding: 0 1rem 1rem 1rem;">
+&lt;p>Yes! We offer secure telehealth consultations for initial meetings, follow-up appointments, and second opinions. This is especially convenient for patients who live far from our locations.&lt;/p>
+&lt;/div>
+&lt;/details>
+&lt;details style="background: white; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+&lt;summary style="padding: 1rem; cursor: pointer; font-weight: bold; color: #fa7f28;">What makes Incinta Fertility different?&lt;/summary>
+&lt;div style="padding: 0 1rem 1rem 1rem;">
+&lt;p>Our combination of cutting-edge technology, personalized care, multiple convenient locations, and exceptional success rates sets us apart. We focus on treating you as a whole person, not just a diagnosis.&lt;/p>
+&lt;/div>
+&lt;/details>
+&lt;details style="background: white; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+&lt;summary style="padding: 1rem; cursor: pointer; font-weight: bold; color: #fa7f28;">How much does fertility treatment cost?&lt;/summary>
+&lt;div style="padding: 0 1rem 1rem 1rem;">
+&lt;p>Costs vary based on your specific treatment plan. We provide transparent pricing and work with most insurance plans. Our financial counselors will review all options during your consultation.&lt;/p>
+&lt;/div>
+&lt;/details>
+&lt;/div>
+&lt;div style="background: linear-gradient(135deg, #fa7f28 0%, #edbb5f 100%); color: white; padding: 2rem; border-radius: 10px; text-align: center; margin: 3rem 0;">
+&lt;h2 style="color: white; margin-top: 0;">🌟 Ready to Start Your Journey?&lt;/h2>
+&lt;p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Your path to parenthood begins with a single conversation. We're here to listen, support, and guide you every step of the way.&lt;/p>
+&lt;div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1.5rem;">
+&lt;a href="tel:+14242124087" style="background: rgba(255,255,255,0.2); color: white; padding: 1rem; border-radius: 8px; text-decoration: none; font-weight: bold; transition: background 0.3s;">
+📱 Call: (424) 212-4087
+&lt;/a>
+&lt;a href="https://wa.me/14244719353" style="background: rgba(255,255,255,0.2); color: white; padding: 1rem; border-radius: 8px; text-decoration: none; font-weight: bold; transition: background 0.3s;">
+💬 WhatsApp Us
+&lt;/a>
+&lt;a href="mailto:contact@incintafertility.com" style="background: rgba(255,255,255,0.2); color: white; padding: 1rem; border-radius: 8px; text-decoration: none; font-weight: bold; transition: background 0.3s;">
+✉️ Email Us
+&lt;/a>
+&lt;/div>
+&lt;p style="margin-top: 1.5rem; margin-bottom: 0; font-style: italic; opacity: 0.9;">Available Monday through Friday, 8:00 AM - 6:00 PM PST&lt;/p>
+&lt;/div></description></item><item><title>Dr. Maria Rodriguez, MD</title><link>https://incintafertility.com/team/dr-maria-rodriguez/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://incintafertility.com/team/dr-maria-rodriguez/</guid><description>&lt;h1 id="dr-maria-rodriguez-md">Dr. Maria Rodriguez, MD
 &lt;/h1>&lt;h2 id="medical-director--reproductive-endocrinologist">Medical Director &amp;amp; Reproductive Endocrinologist
 &lt;/h2>&lt;p>Dr. Maria Rodriguez is the Medical Director of Incinta Fertility Center and a board-certified reproductive endocrinologist with over 15 years of experience helping patients achieve their dreams of parenthood. Known for her compassionate approach and cutting-edge expertise, Dr. Rodriguez has successfully treated thousands of patients with a wide range of fertility challenges.&lt;/p>
 &lt;h2 id="education--training">Education &amp;amp; Training
