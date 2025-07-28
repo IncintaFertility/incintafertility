@@ -1,21 +1,25 @@
 ---
 title: "Fertility Blog"
-description: "Expert insights, tips, and guidance on fertility, reproductive health, and your journey to parenthood."
+description: "Expert insights on fertility treatments, reproductive health, and your journey to parenthood from leading fertility specialists"
 featured_image: '/images/blog-bg.jpg'
+layout: "list"
+showCards: true
+cardView: true
+showSummary: true
 ---
 
-# Fertility Blog
+# Expert Fertility Insights
 
-Welcome to our fertility blog, where our medical experts share valuable insights, tips, and guidance to support you on your journey to parenthood. Here you'll find evidence-based information about fertility treatments, reproductive health, lifestyle factors, and emotional support resources.
+Welcome to our comprehensive fertility blog, where our team of board-certified reproductive endocrinologists and fertility specialists share evidence-based insights, treatment guidance, and supportive information to help you navigate your fertility journey with confidence.
 
-## Latest Articles
+## What You'll Discover
 
-Stay informed with our latest posts covering topics such as:
-- Fertility treatment options and success rates
-- Lifestyle factors affecting fertility
-- Nutrition and supplements for reproductive health
-- Emotional support and coping strategies
-- Latest advances in reproductive medicine
-- Patient success stories and testimonials
+**Treatment Guidance** - In-depth explanations of IVF, IUI, egg freezing, and other fertility treatments
+**Lifestyle Insights** - How nutrition, exercise, and stress management impact fertility
+**Latest Research** - Updates on cutting-edge reproductive medicine and technologies  
+**Patient Stories** - Real experiences from our fertility patients
+**Expert Q&A** - Answers to common fertility questions from our specialists
 
-Subscribe to our newsletter to receive new blog posts directly in your inbox.
+## Popular Categories
+
+[Treatment Options](/categories/treatment-options/) • [Lifestyle](/categories/lifestyle/) • [Women's Health](/categories/womens-health/) • [Male Fertility](/categories/male-fertility/) • [Nutrition](/categories/nutrition/)

@@ -1,0 +1,125 @@
+/* Medical color scheme based on Incinta Fertility branding */
+:root {
+  /* Primary colors from incintafertility.com */
+  --color-primary-50: #fef9ed;
+  --color-primary-100: #fdf2d6;
+  --color-primary-200: #fae2ac;
+  --color-primary-300: #f7cc77;
+  --color-primary-400: #f3b040;
+  --color-primary-500: #edbb5f; /* Main golden color */
+  --color-primary-600: #fa7f28; /* Orange accent */
+  --color-primary-700: #d6621a;
+  --color-primary-800: #b04e16;
+  --color-primary-900: #8f4118;
+
+  /* Secondary colors - warm browns */
+  --color-secondary-50: #faf9f7;
+  --color-secondary-100: #f0eeea;
+  --color-secondary-200: #e0dcd4;
+  --color-secondary-300: #cac4b8;
+  --color-secondary-400: #b0a896;
+  --color-secondary-500: #898f99; /* Muted gray */
+  --color-secondary-600: #534741; /* Deep brown */
+  --color-secondary-700: #4a3f3a;
+  --color-secondary-800: #3d3530;
+  --color-secondary-900: #342d29;
+
+  /* Accent colors - terracotta */
+  --color-accent-50: #fdf6f4;
+  --color-accent-100: #fbeae6;
+  --color-accent-200: #f6d9d1;
+  --color-accent-300: #efbfb1;
+  --color-accent-400: #e59a85;
+  --color-accent-500: #df9475; /* Terracotta */
+  --color-accent-600: #d17357;
+  --color-accent-700: #b05d42;
+  --color-accent-800: #924d39;
+  --color-accent-900: #7a4235;
+
+  /* Neutral colors for medical content */
+  --color-neutral-50: #fafafa;
+  --color-neutral-100: #f5f5f5;
+  --color-neutral-200: #e5e5e5;
+  --color-neutral-300: #d4d4d4;
+  --color-neutral-400: #a3a3a3;
+  --color-neutral-500: #737373;
+  --color-neutral-600: #525252;
+  --color-neutral-700: #404040;
+  --color-neutral-800: #262626;
+  --color-neutral-900: #171717;
+
+  /* Special medical colors */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-error: #ef4444;
+  --color-info: #3b82f6;
+}
+
+/* Light mode overrides */
+[data-scheme="light"] {
+  color-scheme: light;
+  --color-primary: var(--color-primary-500);
+  --color-secondary: var(--color-secondary-600);
+  --color-accent: var(--color-accent-500);
+  --color-neutral: var(--color-neutral-500);
+  
+  /* Background colors */
+  --color-surface: var(--color-neutral-50);
+  --color-surface-variant: var(--color-neutral-100);
+  
+  /* Text colors */
+  --color-on-surface: var(--color-neutral-900);
+  --color-on-surface-variant: var(--color-neutral-700);
+  
+  /* Header styling */
+  --color-header: var(--color-primary-50);
+  --color-header-text: var(--color-secondary-600);
+}
+
+/* Dark mode overrides */
+[data-scheme="dark"] {
+  color-scheme: dark;
+  --color-primary: var(--color-primary-400);
+  --color-secondary: var(--color-secondary-300);
+  --color-accent: var(--color-accent-400);
+  --color-neutral: var(--color-neutral-400);
+  
+  /* Background colors */
+  --color-surface: var(--color-neutral-900);
+  --color-surface-variant: var(--color-neutral-800);
+  
+  /* Text colors */
+  --color-on-surface: var(--color-neutral-100);
+  --color-on-surface-variant: var(--color-neutral-300);
+  
+  /* Header styling */
+  --color-header: var(--color-neutral-900);
+  --color-header-text: var(--color-primary-400);
+}
+
+/* Custom medical-specific styling */
+.medical-highlight {
+  background-color: var(--color-primary-100);
+  border-left: 4px solid var(--color-primary-500);
+  padding: 1rem;
+  border-radius: 0.375rem;
+}
+
+.medical-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-primary-200);
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 6px -1px rgba(237, 187, 95, 0.1);
+}
+
+.medical-button {
+  background: linear-gradient(135deg, var(--color-primary-500), var(--color-primary-600));
+  color: white;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+.medical-button:hover {
+  background: linear-gradient(135deg, var(--color-primary-600), var(--color-primary-700));
+  transform: translateY(-1px);
+}

@@ -1,7 +1,7 @@
 baseURL = 'https://incintafertility.com/'
 languageCode = 'en-us'
 title = 'Incinta Fertility Center'
-theme = 'ananke'
+theme = 'blowfish'
 
 [params]
   description = "Leading fertility clinic providing comprehensive reproductive health services"

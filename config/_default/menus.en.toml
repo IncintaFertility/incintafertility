@@ -1,0 +1,44 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Blog"
+  pageRef = "/blog"
+  weight = 20
+
+[[main]]
+  name = "Categories"
+  pageRef = "/categories"
+  weight = 30
+
+[[main]]
+  name = "About"
+  pageRef = "/about"
+  weight = 40
+
+[[main]]
+  name = "Contact"
+  pageRef = "/contact"
+  weight = 50
+
+[[footer]]
+  name = "Services"
+  pageRef = "/services"
+  weight = 10
+
+[[footer]]
+  name = "Team"
+  pageRef = "/team"
+  weight = 20
+
+[[footer]]
+  name = "FAQ"
+  pageRef = "/faq"
+  weight = 30
+
+[[footer]]
+  name = "Success Stories"
+  pageRef = "/success-stories"
+  weight = 40
