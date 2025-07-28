@@ -5,7 +5,7 @@ draft: false
 author: "Sarah Johnson, RN"
 categories: ["Lifestyle", "Nutrition"]
 tags: ["fertility diet", "reproductive health", "nutrition", "wellness"]
-image: "/images/fertility-nutrition.jpg"
+image: "/images/nutrition-healthy-food.jpg"
 description: "Discover how proper nutrition can support your fertility journey. Learn about key nutrients and foods that may improve reproductive health."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Fertility Blog"
 description: "Expert insights on fertility treatments, reproductive health, and your journey to parenthood from leading fertility specialists"
-image: '/images/blog-bg.jpg'
+image: '/images/blog-hero-fertility.jpg'
 layout: "list"
 showCards: true
 cardView: true
