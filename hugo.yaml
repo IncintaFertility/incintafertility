@@ -31,7 +31,7 @@ permalinks:
 params:
     mainSections:
         - blog
-    featuredImageField: featured_image
+    featuredImageField: image
     rssFullContent: true
     favicon: /images/favicon.png
 
