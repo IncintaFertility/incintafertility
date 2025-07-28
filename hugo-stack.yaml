@@ -1,0 +1,155 @@
+baseurl: https://incintafertility.com/
+languageCode: en-us
+theme: newsroom
+title: Incinta Fertility
+copyright: Copyright © 2024 Incinta Fertility. All rights reserved.
+
+# Theme i18n support
+DefaultContentLanguage: en
+hasCJKLanguage: false
+
+languages:
+    en:
+        languageName: English
+        title: Incinta Fertility
+        weight: 1
+        params:
+            sidebar:
+                subtitle: Leading fertility clinic providing comprehensive reproductive health services
+
+services:
+    googleAnalytics:
+        id: ""
+
+pagination:
+    pagerSize: 8
+
+permalinks:
+    post: /blog/:slug/
+    page: /:slug/
+
+params:
+    mainSections:
+        - blog
+    featuredImageField: featured_image
+    rssFullContent: true
+    favicon: /images/favicon.png
+
+    footer:
+        since: 2024
+        customText: "Incinta Fertility - Your trusted partner in reproductive health"
+
+    dateFormat:
+        published: January 2, 2006
+        lastUpdated: January 2, 2006 15:04 MST
+
+    sidebar:
+        emoji: 🤱
+        subtitle: Leading fertility clinic providing comprehensive reproductive health services and personalized fertility treatments
+        avatar:
+            enabled: false
+            local: true
+            src: img/logo.png
+
+    article:
+        math: false
+        toc: true
+        readingTime: true
+        license:
+            enabled: false
+
+    comments:
+        enabled: false
+
+    widgets:
+        homepage:
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+        page:
+            - type: toc
+
+    opengraph:
+        twitter:
+            site: "@incintafertility"
+            card: summary_large_image
+
+    defaultImage:
+        opengraph:
+            enabled: false
+            local: true
+            src: img/logo.png
+
+    colorScheme:
+        toggle: true
+        default: light
+
+    imageProcessing:
+        cover:
+            enabled: true
+        content:
+            enabled: true
+
+menu:
+    main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: 10
+        
+        - identifier: services
+          name: Services
+          url: /services/
+          weight: 20
+          
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 30
+          
+        - identifier: blog
+          name: Blog
+          url: /blog/
+          weight: 40
+          
+        - identifier: faq
+          name: FAQ
+          url: /faq/
+          weight: 50
+          
+        - identifier: contact
+          name: Contact
+          url: /contact/
+          weight: 60
+
+    social: []
+
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+        - name: categories
+          weight: 200
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4

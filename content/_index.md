@@ -1,13 +1,8 @@
----
-title: "Incinta Fertility"
-description: "Leading fertility clinic providing comprehensive reproductive health services with personalized care and cutting-edge fertility treatments"
-menu:
-    main:
-        name: "Home"
-        weight: 1
-        params:
-            icon: home
----
++++
+title = "Incinta Fertility"
+date = 2024-07-28T00:00:00+08:00
+image = "/images/blog/fertility-hero.jpg"
++++
 
 # Welcome to Incinta Fertility
 
@@ -17,22 +12,18 @@ At Incinta Fertility, we understand that your journey to parenthood is unique an
 
 ## Why Choose Incinta Fertility?
 
-### 🔬 **Advanced Medical Expertise**
-Our fellowship-trained specialists have years of experience in reproductive medicine, utilizing the latest fertility treatments and technologies to maximize your chances of success.
+**Advanced Medical Expertise** - Our fellowship-trained specialists have years of experience in reproductive medicine, utilizing the latest fertility treatments and technologies to maximize your chances of success.
 
-### 💝 **Personalized Care**
-Every treatment plan is tailored to your unique medical history, lifestyle, and family-building goals. We believe in treating the whole person, not just the diagnosis.
+**Personalized Care** - Every treatment plan is tailored to your unique medical history, lifestyle, and family-building goals. We believe in treating the whole person, not just the diagnosis.
 
-### 🏥 **State-of-the-Art Facility** 
-Our modern fertility laboratory features the latest equipment for IVF, ICSI, genetic testing, and cryopreservation, ensuring the highest standards of care.
+**State-of-the-Art Facility** - Our modern fertility laboratory features the latest equipment for IVF, ICSI, genetic testing, and cryopreservation, ensuring the highest standards of care.
 
-### 🤝 **Comprehensive Support**
-From initial consultation through pregnancy and beyond, our dedicated team provides medical, emotional, and financial guidance every step of the way.
+**Comprehensive Support** - From initial consultation through pregnancy and beyond, our dedicated team provides medical, emotional, and financial guidance every step of the way.
 
 ## Our Services
 
 - **In Vitro Fertilization (IVF)** - Advanced reproductive technology with personalized protocols
-- **Intrauterine Insemination (IUI)** - Less invasive fertility treatment option
+- **Intrauterine Insemination (IUI)** - Less invasive fertility treatment option  
 - **Egg Freezing** - Preserve your fertility for the future
 - **Genetic Testing** - Comprehensive screening for genetic conditions
 - **Male Fertility** - Specialized care for male factor infertility
@@ -42,7 +33,7 @@ From initial consultation through pregnancy and beyond, our dedicated team provi
 
 Ready to take the first step? We're here to guide you through every aspect of your fertility journey with expertise, compassion, and hope.
 
-**📞 Call us today**: [Schedule your consultation](/contact/) and begin your path to parenthood.
+**Call us today**: [Schedule your consultation](/contact/) and begin your path to parenthood.
 
 ---
 

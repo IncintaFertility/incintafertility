@@ -5,7 +5,7 @@ draft: false
 author: "Dr. Sarah Williams"
 categories: ["Women's Health", "Treatment Options"]
 tags: ["PCOS", "fertility", "reproductive health", "ovulation"]
-image: "/images/fertility-nutrition.jpg"
+image: "/images/pcos-awareness.jpg"
 description: "Comprehensive guide to managing PCOS and improving fertility outcomes through lifestyle changes and medical treatments."
 ---
 

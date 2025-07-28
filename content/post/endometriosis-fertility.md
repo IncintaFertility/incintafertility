@@ -5,7 +5,7 @@ draft: false
 author: "Dr. Maria Rodriguez"
 categories: ["Women's Health", "Treatment Options"]
 tags: ["endometriosis", "fertility", "reproductive health", "treatment"]
-image: "/images/fertility-after-40.jpg"
+image: "/images/endometriosis-support.jpg"
 description: "Understanding how endometriosis affects fertility and the treatment options available to help you conceive."
 ---
 
