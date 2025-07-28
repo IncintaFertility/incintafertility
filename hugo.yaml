@@ -105,15 +105,30 @@ menu:
           url: /
           weight: 10
           
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 20
+          
+        - identifier: services
+          name: Services
+          url: /services/
+          weight: 30
+          
+        - identifier: locations
+          name: Locations
+          url: /locations/
+          weight: 40
+          
         - identifier: blog
           name: Blog
           url: /blog/
-          weight: 20
+          weight: 50
           
         - identifier: contact
           name: Contact
           url: /contact/
-          weight: 30
+          weight: 60
 
     social: []
 

@@ -4,9 +4,9 @@ description: "Schedule your consultation with Incinta Fertility. We're here to h
 image: '/images/medical-consultation-warm.jpg'
 ---
 
-# Ready to Start Your Fertility Journey?
+# Contact Incinta Fertility
 
-Take the first step toward building your family. Our compassionate team of fertility specialists is here to guide you through every step of your reproductive health journey with personalized care and cutting-edge treatments.
+Ready to take the first step toward building your family? Our compassionate team of fertility specialists is here to guide you through every step of your reproductive health journey with personalized care and cutting-edge treatments.
 
 <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 2rem; border-radius: 10px; margin: 2rem 0; border-left: 4px solid #edbb5f;">
 <h2 style="color: #fa7f28; margin-top: 0;">📞 Schedule Your Consultation Today</h2>
@@ -132,243 +132,18 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-## 🏥 Our California Locations
+## 🏥 Quick Links to More Information
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
-
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #fa7f28;">
-<h3 style="color: #fa7f28; margin-top: 0;">🌟 Torrance Office</h3>
-<p><strong>Main Location & Laboratory</strong></p>
-<ul style="margin: 0; padding-left: 1.2rem;">
-<li>Full IVF laboratory and surgical suite</li>
-<li>Complete fertility testing and diagnostics</li>
-<li>Genetic counseling services</li>
-<li>Research and clinical trials</li>
-</ul>
-<p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;"><em>Our flagship location with comprehensive services</em></p>
-</div>
-
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #edbb5f;">
-<h3 style="color: #fa7f28; margin-top: 0;">🏢 Alhambra Office</h3>
-<p><strong>East LA Convenience</strong></p>
-<ul style="margin: 0; padding-left: 1.2rem;">
-<li>Full-service fertility clinic</li>
-<li>Ultrasound and monitoring</li>
-<li>IUI procedures</li>
-<li>Consultations and follow-ups</li>
-</ul>
-<p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;"><em>Serving the San Gabriel Valley</em></p>
-</div>
-
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #fa7f28;">
-<h3 style="color: #fa7f28; margin-top: 0;">✨ Beverly Hills Office</h3>
-<p><strong>Luxury Fertility Care</strong></p>
-<ul style="margin: 0; padding-left: 1.2rem;">
-<li>Executive health approach</li>
-<li>Concierge-level service</li>
-<li>Advanced treatments</li>
-<li>Discreet, private setting</li>
-</ul>
-<p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;"><em>Premium fertility care in the heart of Beverly Hills</em></p>
-</div>
-
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #edbb5f;">
-<h3 style="color: #fa7f28; margin-top: 0;">🌴 Corona Office</h3>
-<p><strong>Riverside County Hub</strong></p>
-<ul style="margin: 0; padding-left: 1.2rem;">
-<li>Complete reproductive services</li>
-<li>Male fertility evaluations</li>
-<li>Fertility preservation</li>
-<li>Family planning counseling</li>
-</ul>
-<p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;"><em>Convenient for Inland Empire families</em></p>
-</div>
-
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #fa7f28;">
-<h3 style="color: #fa7f28; margin-top: 0;">🏖️ Irvine Office</h3>
-<p><strong>Orange County Location</strong></p>
-<ul style="margin: 0; padding-left: 1.2rem;">
-<li>All fertility treatments</li>
-<li>Egg freezing specialists</li>
-<li>Third-party reproduction</li>
-<li>LGBTQ+ family building</li>
-</ul>
-<p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;"><em>Modern facility serving Orange County</em></p>
-</div>
-
-<div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 1.5rem; border-radius: 10px; border: 2px dashed #edbb5f;">
-<h3 style="color: #fa7f28; margin-top: 0;">💻 Telehealth Consultations</h3>
-<p><strong>Virtual Care Available</strong></p>
-<ul style="margin: 0; padding-left: 1.2rem;">
-<li>Initial consultations</li>
-<li>Follow-up appointments</li>
-<li>Second opinions</li>
-<li>Treatment planning</li>
-</ul>
-<p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;"><em>Safe, convenient care from home</em></p>
-</div>
-
-</div>
-
-<div style="text-align: center; margin: 2rem 0; padding: 1rem; background: #f8f9fa; border-radius: 5px;">
-<p style="margin: 0; color: #6c757d;">📍 <strong>Need specific addresses or directions?</strong></p>
-<p style="margin: 0;">Call us at <a href="tel:+14242124087" style="color: #fa7f28;">+1 (424) 212-4087</a> and we'll provide detailed directions to your preferred location.</p>
-</div>
-
-## 📋 What to Expect at Your Initial Consultation
-
-<div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 2rem; border-radius: 10px; margin: 2rem 0;">
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
-
-<div>
-<h4 style="color: #fa7f28; margin-top: 0;">🔍 Comprehensive Review</h4>
-<ul style="margin: 0; padding-left: 1rem; line-height: 1.6;">
-<li>Detailed medical & fertility history</li>
-<li>Previous test results analysis</li>  
-<li>Lifestyle factors assessment</li>
-<li>Partner evaluation (if applicable)</li>
-</ul>
-</div>
-
-<div>
-<h4 style="color: #fa7f28; margin-top: 0;">🏥 Clinical Assessment</h4>
-<ul style="margin: 0; padding-left: 1rem; line-height: 1.6;">
-<li>Physical examination</li>
-<li>Ultrasound evaluation</li>
-<li>Laboratory testing recommendations</li>
-<li>Diagnostic planning</li>
-</ul>
-</div>
-
-<div>
-<h4 style="color: #fa7f28; margin-top: 0;">📋 Treatment Planning</h4>
-<ul style="margin: 0; padding-left: 1rem; line-height: 1.6;">
-<li>Personalized treatment options</li>
-<li>Success rate discussions</li>
-<li>Timeline expectations</li>
-<li>Next steps roadmap</li>
-</ul>
-</div>
-
-<div>
-<h4 style="color: #fa7f28; margin-top: 0;">💰 Financial Guidance</h4>
-<ul style="margin: 0; padding-left: 1rem; line-height: 1.6;">
-<li>Insurance verification</li>
-<li>Treatment cost estimates</li>
-<li>Payment plan options</li>
-<li>Financial counseling</li>
-</ul>
-</div>
-
-</div>
-</div>
-
-### 📝 How to Prepare for Your Visit
-
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 1rem 0;">
-<strong>📋 Please bring:</strong>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
-<div>• Valid photo ID<br>• Insurance cards<br>• Previous medical records</div>
-<div>• Current medications list<br>• Menstrual cycle tracker<br>• Partner (if applicable)</div>
-</div>
-</div>
-
----
-
-## 💳 Insurance & Financial Information
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
-
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<h3 style="color: #fa7f28; margin-top: 0;">🛡️ Insurance Partners</h3>
-<ul style="margin: 0; padding-left: 1rem;">
-<li><strong>Blue Cross Blue Shield</strong></li>
-<li><strong>Aetna</strong></li>
-<li><strong>Cigna</strong></li>
-<li><strong>United Healthcare</strong></li>
-<li><strong>Kaiser Permanente</strong> (select plans)</li>
-<li><strong>And many more...</strong></li>
-</ul>
-<p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;"><em>We verify benefits before treatment</em></p>
-</div>
-
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<h3 style="color: #fa7f28; margin-top: 0;">💰 Payment Options</h3>
-<ul style="margin: 0; padding-left: 1rem;">
-<li><strong>Insurance coverage</strong> (when applicable)</li>
-<li><strong>Flexible payment plans</strong></li>
-<li><strong>HSA/FSA accounts</strong></li>
-<li><strong>CareCredit financing</strong></li>
-<li><strong>Medication assistance programs</strong></li>
-<li><strong>Package pricing</strong> for multiple cycles</li>
-</ul>
-<p style="margin-bottom: 0; font-size: 0.9rem; color: #6c757d;"><em>Financial counselors available</em></p>
-</div>
-
-</div>
-
----
-
-## 🔬 Our Specialized Services
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
-
-<div style="background: linear-gradient(135deg, #fa7f28 0%, #edbb5f 100%); color: white; padding: 1rem; border-radius: 8px; text-align: center;">
-<h4 style="margin: 0.5rem 0;">🧪 IVF & Advanced ART</h4>
-<p style="margin: 0; font-size: 0.9rem;">State-of-the-art laboratory with cutting-edge technology</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #edbb5f 0%, #fa7f28 100%); color: white; padding: 1rem; border-radius: 8px; text-align: center;">
-<h4 style="margin: 0.5rem 0;">🥚 Egg Freezing</h4>
-<p style="margin: 0; font-size: 0.9rem;">Preserve your fertility for the future</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #fa7f28 0%, #edbb5f 100%); color: white; padding: 1rem; border-radius: 8px; text-align: center;">
-<h4 style="margin: 0.5rem 0;">🧬 Genetic Testing</h4>
-<p style="margin: 0; font-size: 0.9rem;">PGT-A, PGT-M, and carrier screening</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #edbb5f 0%, #fa7f28 100%); color: white; padding: 1rem; border-radius: 8px; text-align: center;">
-<h4 style="margin: 0.5rem 0;">👨‍⚕️ Male Fertility</h4>
-<p style="margin: 0; font-size: 0.9rem;">Comprehensive male factor evaluation</p>
-</div>
-
-</div>
-
----
-
-## ❓ Frequently Asked Questions
-
-<div style="margin: 2rem 0;">
-
-<details style="background: white; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<summary style="padding: 1rem; cursor: pointer; font-weight: bold; color: #fa7f28;">How quickly can I be seen?</summary>
-<div style="padding: 0 1rem 1rem 1rem;">
-<p>Most new patients can be scheduled within 1-2 weeks. For urgent cases or specific concerns, we often accommodate same-day appointments when possible.</p>
-</div>
-</details>
-
-<details style="background: white; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<summary style="padding: 1rem; cursor: pointer; font-weight: bold; color: #fa7f28;">Do you offer virtual consultations?</summary>
-<div style="padding: 0 1rem 1rem 1rem;">
-<p>Yes! We offer secure telehealth consultations for initial meetings, follow-up appointments, and second opinions. This is especially convenient for patients who live far from our locations.</p>
-</div>
-</details>
-
-<details style="background: white; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<summary style="padding: 1rem; cursor: pointer; font-weight: bold; color: #fa7f28;">What makes Incinta Fertility different?</summary>
-<div style="padding: 0 1rem 1rem 1rem;">
-<p>Our combination of cutting-edge technology, personalized care, multiple convenient locations, and exceptional success rates sets us apart. We focus on treating you as a whole person, not just a diagnosis.</p>
-</div>
-</details>
-
-<details style="background: white; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<summary style="padding: 1rem; cursor: pointer; font-weight: bold; color: #fa7f28;">How much does fertility treatment cost?</summary>
-<div style="padding: 0 1rem 1rem 1rem;">
-<p>Costs vary based on your specific treatment plan. We provide transparent pricing and work with most insurance plans. Our financial counselors will review all options during your consultation.</p>
-</div>
-</details>
-
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
+<a href="/locations/" style="background: linear-gradient(135deg, #fa7f28 0%, #edbb5f 100%); color: white; padding: 1rem; border-radius: 8px; text-decoration: none; font-weight: bold; text-align: center; transition: transform 0.2s;">
+📍 Our Locations
+</a>
+<a href="/services/" style="background: linear-gradient(135deg, #edbb5f 0%, #fa7f28 100%); color: white; padding: 1rem; border-radius: 8px; text-decoration: none; font-weight: bold; text-align: center; transition: transform 0.2s;">
+🔬 Our Services
+</a>
+<a href="/about/" style="background: linear-gradient(135deg, #fa7f28 0%, #edbb5f 100%); color: white; padding: 1rem; border-radius: 8px; text-decoration: none; font-weight: bold; text-align: center; transition: transform 0.2s;">
+🌟 About Us
+</a>
 </div>
 
 <div style="background: linear-gradient(135deg, #fa7f28 0%, #edbb5f 100%); color: white; padding: 2rem; border-radius: 10px; text-align: center; margin: 3rem 0;">
